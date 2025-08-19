@@ -52,3 +52,16 @@ A well-designed booking system reduces friction in the user journey, increases c
 
 Identifying the design properties of a mock-up is crucial because it helps ensure that the final product aligns with both user needs and project goals. By analyzing elements such as layout, typography, color schemes, spacing, and interactive components early on, designers and stakeholders can spot potential usability issues, maintain visual consistency, and make informed decisions before development begins. This process reduces costly revisions, streamlines communication between teams, and ensures that the final product delivers a cohesive, intuitive, and user-friendly experience.
 
+## Project Roles and Responsibilities
+
+| Role	              | Responsibilities                                                    |
+|---------------------|---------------------------------------------------------------------|
+| Project Manager	  | Oversees timeline, coordinates team, manages deliverables           |
+| Frontend Developers |	Implements UI components, ensures responsive design                 |
+| Backend Developers  |	Builds APIs, manages database, implements business logic            |
+| Designers           |	Creates mockups, maintains design system, ensures UX quality        |
+| QA/Testers          |	Writes test cases, performs testing, reports bugs                   |
+| DevOps Engineers    |	Manages deployment, CI/CD pipeline, server infrastructure           |
+| Product Owner	      | Defines requirements, prioritizes features, represents stakeholders |
+| Scrum Master	      | Facilitates agile processes, removes blockers, organizes meetings   |
+
