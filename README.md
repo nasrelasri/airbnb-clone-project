@@ -69,26 +69,26 @@ Identifying the design properties of a mock-up is crucial because it helps ensur
 
 ### Planned Components
 
-1. Navbar
+1. **Navbar**
 
-- Logo
-- Search bar
-- User navigation
-- Responsive menu
+    - Logo
+    - Search bar
+    - User navigation
+    - Responsive menu
 
-2. Property Card
+2. **Property Card**
 
-- Property image
-- Basic details (price, location, rating)
-- Favorite button
-- Responsive layout
+    - Property image
+    - Basic details (price, location, rating)
+    - Favorite button
+    - Responsive layout
 
-3. Footer
+3. **Footer**
 
-- Site links
-- Company information
-- Social media links
-- Copyright information
+    - Site links
+    - Company information
+    - Social media links
+    - Copyright information
 
 Each component will be designed for reusability and consistency across the application.
 
