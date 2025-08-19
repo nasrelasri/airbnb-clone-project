@@ -47,3 +47,8 @@ A well-designed booking system reduces friction in the user journey, increases c
 - Primary Font: Circular, Medium (500), 16px
 - Headings: Circular, Bold (700), 24px-32px
 - Secondary Text: Circular, Book (400), 14px
+
+### Importance of identifying design properties of a mock up design
+
+Identifying the design properties of a mock-up is crucial because it helps ensure that the final product aligns with both user needs and project goals. By analyzing elements such as layout, typography, color schemes, spacing, and interactive components early on, designers and stakeholders can spot potential usability issues, maintain visual consistency, and make informed decisions before development begins. This process reduces costly revisions, streamlines communication between teams, and ensures that the final product delivers a cohesive, intuitive, and user-friendly experience.
+
